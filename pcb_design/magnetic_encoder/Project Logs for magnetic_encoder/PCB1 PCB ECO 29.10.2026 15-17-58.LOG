@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=+3.3V Pin=*-1
+Removed Pin From Net: NetName=+3.3V Pin=*-3
+Added Pin To Net: NetName=+3.3V Pin=*-1
+Added Pin To Net: NetName=Net*_1 Pin=*-1
+Added Pin To Net: NetName=+3.3V Pin=*-3
+Added Pin To Net: NetName=Net*_3 Pin=*-3
+Added Member To Class: ClassName=Sheet1 Member=Component * Connector 3H 2mm
