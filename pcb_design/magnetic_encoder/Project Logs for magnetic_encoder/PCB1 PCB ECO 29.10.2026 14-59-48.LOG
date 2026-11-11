@@ -1,0 +1,16 @@
+Removed Member From Class: ClassName=Sheet1 Member=P2
+Added Component: Designator=*(Connector 3H 2mm)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=Net*_1 Pin=*-1
+Added Pin To Net: NetName=Net*_1 Pin=*-5
+Added Net: Name=Net*_1
+Added Pin To Net: NetName=Net*_2 Pin=*-2
+Added Pin To Net: NetName=Net*_2 Pin=*-6
+Added Pin To Net: NetName=Net*_2 Pin=R1-1
+Added Net: Name=Net*_2
+Added Pin To Net: NetName=Net*_3 Pin=*-3
+Added Pin To Net: NetName=Net*_3 Pin=*-7
+Added Pin To Net: NetName=Net*_3 Pin=R2-1
+Added Net: Name=Net*_3
+Added Member To Class: ClassName=Sheet1 Member=Component * Connector 3H 2mm
+Added Room: Name=Sheet1

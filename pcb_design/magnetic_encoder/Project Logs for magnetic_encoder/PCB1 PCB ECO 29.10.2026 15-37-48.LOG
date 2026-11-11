@@ -1,0 +1,11 @@
+Added Component: Designator=*(AS5600)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=+3.3V Pin=*-1
+Added Pin To Net: NetName=+3.3V Pin=*-3
+Added Pin To Net: NetName=GND Pin=*-4
+Added Pin To Net: NetName=Net*_1 Pin=*-5
+Added Pin To Net: NetName=Net*_2 Pin=*-6
+Added Pin To Net: NetName=Net*_3 Pin=*-7
+Added Member To Class: ClassName=Sheet1 Member=Component * AS5600
+Added Member To Class: ClassName=Sheet1 Member=Component * Connector 3H 2mm
+Added Room: Name=Sheet1
