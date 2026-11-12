@@ -1,0 +1,206 @@
+{
+  "main": {
+    "id": "b24b12f2f6e45ca6",
+    "type": "split",
+    "children": [
+      {
+        "id": "7babca5ca77a9718",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1302b2fbdc484b07",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Купить.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Купить"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3daaa86324fa473c",
+    "type": "split",
+    "children": [
+      {
+        "id": "b401ea6011e85c4c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "283259ff1f33b28e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "0d56a299443c9712",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "492706e376952526",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "75d0fe12a3a949c7",
+    "type": "split",
+    "children": [
+      {
+        "id": "118cb8fa3b16fd52",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5a15595133556818",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Купить.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки"
+            }
+          },
+          {
+            "id": "25d14470074b1fb7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Купить.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки"
+            }
+          },
+          {
+            "id": "8a514a6561e1ef03",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "0353350b94458318",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Все свойства"
+            }
+          },
+          {
+            "id": "55157ef2210cb1df",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Купить.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Структура"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "bases:Создать новую базу": false
+    }
+  },
+  "active": "1302b2fbdc484b07",
+  "lastOpenFiles": [
+    "pcb_design/accumulator_part/Project Logs for accumulator_part/Sheet2 SCH ECO 12.11.2026 17-39-02.LOG",
+    "pcb_design/accumulator_part/History/accumulator_part.~(4).PrjPcb.Zip",
+    "pcb_design/accumulator_part/History/accumulator_part.~(4).PrjPcb",
+    "pcb_design/accumulator_part/History/Sheet2.~(11).SchDoc.Zip",
+    "pcb_design/accumulator_part/History/Sheet2.~(11).SchDoc",
+    "pcb_design/accumulator_part/Project Logs for accumulator_part/Sheet2 SCH ECO 12.11.2026 17-22-16.LOG",
+    "pcb_design/accumulator_part/Project Logs for accumulator_part",
+    "pcb_design/accumulator_part/History/Sheet2.~(10).SchDoc.Zip",
+    "pcb_design/accumulator_part/History/Sheet2.~(10).SchDoc",
+    "pcb_design/accumulator_part/History/Misc_custom.~(14).SchLib.Zip",
+    "pcb_design/accumulator_part/History/Misc_custom.~(14).SchLib",
+    "Купить.md"
+  ]
+}
