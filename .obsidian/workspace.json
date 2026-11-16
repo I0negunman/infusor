@@ -4,21 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "7babca5ca77a9718",
+        "id": "76b2b454eabfa53f",
         "type": "tabs",
         "children": [
           {
-            "id": "1302b2fbdc484b07",
+            "id": "77e7fe4d93d33ef6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Купить.md",
-                "mode": "source",
-                "source": false
+                "file": "Datasheets/LTC4002.pdf",
+                "page": 1,
+                "left": -10,
+                "top": 501,
+                "zoom": 1.6066176470588236
               },
-              "icon": "lucide-file",
-              "title": "Купить"
+              "icon": "lucide-file-text",
+              "title": "LTC4002"
             }
           }
         ]
@@ -179,6 +181,9 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false,
       "switcher:Меню быстрого перехода": false,
       "graph:Граф": false,
       "canvas:Создать новый холст": false,
@@ -188,8 +193,11 @@
       "bases:Создать новую базу": false
     }
   },
-  "active": "1302b2fbdc484b07",
+  "active": "283259ff1f33b28e",
   "lastOpenFiles": [
+    "Datasheets/LTC4002.pdf",
+    "Datasheets/Magnetic Rotary Position Sensor AS5600 Datasheet.pdf",
+    "Купить.md",
     "pcb_design/accumulator_part/Project Logs for accumulator_part/Sheet2 SCH ECO 12.11.2026 17-39-02.LOG",
     "pcb_design/accumulator_part/History/accumulator_part.~(4).PrjPcb.Zip",
     "pcb_design/accumulator_part/History/accumulator_part.~(4).PrjPcb",
@@ -198,9 +206,6 @@
     "pcb_design/accumulator_part/Project Logs for accumulator_part/Sheet2 SCH ECO 12.11.2026 17-22-16.LOG",
     "pcb_design/accumulator_part/Project Logs for accumulator_part",
     "pcb_design/accumulator_part/History/Sheet2.~(10).SchDoc.Zip",
-    "pcb_design/accumulator_part/History/Sheet2.~(10).SchDoc",
-    "pcb_design/accumulator_part/History/Misc_custom.~(14).SchLib.Zip",
-    "pcb_design/accumulator_part/History/Misc_custom.~(14).SchLib",
-    "Купить.md"
+    "pcb_design/accumulator_part/History/Sheet2.~(10).SchDoc"
   ]
 }
