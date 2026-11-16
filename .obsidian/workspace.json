@@ -13,14 +13,14 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Datasheets/LTC4002.pdf",
-                "page": 1,
-                "left": -10,
-                "top": 501,
-                "zoom": 1.6066176470588236
+                "file": "Datasheets/DOC012285980.pdf",
+                "page": 13,
+                "left": -9,
+                "top": 600,
+                "zoom": 1.696078431372549
               },
               "icon": "lucide-file-text",
-              "title": "LTC4002"
+              "title": "DOC012285980"
             }
           }
         ]
@@ -193,19 +193,20 @@
       "bases:Создать новую базу": false
     }
   },
-  "active": "283259ff1f33b28e",
+  "active": "77e7fe4d93d33ef6",
   "lastOpenFiles": [
-    "Datasheets/LTC4002.pdf",
-    "Datasheets/Magnetic Rotary Position Sensor AS5600 Datasheet.pdf",
+    "pcb_design/accumulator_part/History/accumulator_part.~(5).PrjPcb.Zip",
+    "pcb_design/accumulator_part/History/accumulator_part.~(5).PrjPcb",
+    "pcb_design/accumulator_part/Sheet2.$$$",
+    "pcb_design/accumulator_part/History/Sheet2.~(22).SchDoc.Zip",
+    "pcb_design/accumulator_part/History/Sheet2.~(22).SchDoc",
+    "pcb_design/accumulator_part/Project Logs for accumulator_part/Sheet2 SCH ECO 16.11.2026 17-21-52.LOG",
+    "pcb_design/accumulator_part/History/Sheet2.~(21).SchDoc.Zip",
+    "pcb_design/accumulator_part/History/Sheet2.~(21).SchDoc",
+    "pcb_design/accumulator_part/History/Sheet2.~(20).SchDoc.Zip",
+    "pcb_design/accumulator_part/History/Sheet2.~(20).SchDoc",
+    "pcb_design/accumulator_part/History/Sheet2.~(19).SchDoc.Zip",
     "Купить.md",
-    "pcb_design/accumulator_part/Project Logs for accumulator_part/Sheet2 SCH ECO 12.11.2026 17-39-02.LOG",
-    "pcb_design/accumulator_part/History/accumulator_part.~(4).PrjPcb.Zip",
-    "pcb_design/accumulator_part/History/accumulator_part.~(4).PrjPcb",
-    "pcb_design/accumulator_part/History/Sheet2.~(11).SchDoc.Zip",
-    "pcb_design/accumulator_part/History/Sheet2.~(11).SchDoc",
-    "pcb_design/accumulator_part/Project Logs for accumulator_part/Sheet2 SCH ECO 12.11.2026 17-22-16.LOG",
-    "pcb_design/accumulator_part/Project Logs for accumulator_part",
-    "pcb_design/accumulator_part/History/Sheet2.~(10).SchDoc.Zip",
-    "pcb_design/accumulator_part/History/Sheet2.~(10).SchDoc"
+    "README.md"
   ]
 }
