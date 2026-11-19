@@ -8,17 +8,51 @@
         "type": "tabs",
         "children": [
           {
+            "id": "49a21660513fdd29",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Datasheets/bq34z100-G1.pdf",
+                "page": 3,
+                "left": -122,
+                "top": 389,
+                "zoom": 1.25
+              },
+              "icon": "lucide-file-text",
+              "title": "bq34z100-G1"
+            }
+          },
+          {
             "id": "77e7fe4d93d33ef6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Купить.md",
-                "mode": "source",
-                "source": false
+                "file": "Datasheets/bq34z100-G1.pdf",
+                "page": 46,
+                "left": -9,
+                "top": 586,
+                "zoom": 1.696078431372549
               },
-              "icon": "lucide-file",
-              "title": "Купить"
+              "icon": "lucide-file-text",
+              "title": "bq34z100-G1"
+            }
+          },
+          {
+            "id": "55e7e963d5dd3068",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Datasheets/bq34z100-G1.pdf",
+                "page": 4,
+                "left": -4,
+                "top": 258,
+                "zoom": 1.696078431372549
+              },
+              "icon": "lucide-file-text",
+              "title": "bq34z100-G1"
             }
           },
           {
@@ -34,40 +68,9 @@
               "icon": "lucide-file",
               "title": "Купить"
             }
-          },
-          {
-            "id": "8143bd0ff5ea134c",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Datasheets/bq34z100-G1.pdf",
-                "page": 3,
-                "left": -122,
-                "top": 604,
-                "zoom": 1.25
-              },
-              "icon": "lucide-file-text",
-              "title": "bq34z100-G1"
-            }
-          },
-          {
-            "id": "49a21660513fdd29",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Datasheets/bq34z100-G1.pdf",
-                "page": 3,
-                "left": -122,
-                "top": 610,
-                "zoom": 1.25
-              },
-              "icon": "lucide-file-text",
-              "title": "bq34z100-G1"
-            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -237,20 +240,20 @@
       "bases:Создать новую базу": false
     }
   },
-  "active": "77e7fe4d93d33ef6",
+  "active": "c1a5d124ea7a3283",
   "lastOpenFiles": [
+    "pcb_design/accumulator_part/History/Sheet2.~(29).SchDoc.Zip",
+    "pcb_design/accumulator_part/History/Sheet2.~(29).SchDoc",
+    "Datasheets/bq34z100-G1.pdf",
+    "Купить.md",
     "pcb_design/accumulator_part/History/Sheet2.~(28).SchDoc.Zip",
     "pcb_design/accumulator_part/History/Sheet2.~(28).SchDoc",
     "pcb_design/accumulator_part/History/Misc_custom.~(22).SchLib.Zip",
     "pcb_design/accumulator_part/History/Misc_custom.~(22).SchLib",
-    "Datasheets/bq34z100-G1.pdf",
     "Datasheets/Magnetic Rotary Position Sensor AS5600 Datasheet.pdf",
-    "Купить.md",
     "pcb_design/PCB_inverted.pdf",
     "pcb_design/accumulator_part/History/Sheet2.~(27).SchDoc.Zip",
     "pcb_design/accumulator_part/History/Sheet2.~(27).SchDoc",
-    "pcb_design/accumulator_part/Misc_custom.$$$",
-    "pcb_design/accumulator_part/History/Misc_custom.~(21).SchLib.Zip",
     "README.md"
   ]
 }
