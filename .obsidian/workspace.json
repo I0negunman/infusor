@@ -15,9 +15,9 @@
               "state": {
                 "file": "Datasheets/bq29209.pdf",
                 "page": 13,
-                "left": -340,
-                "top": 663,
-                "zoom": 1
+                "left": -7,
+                "top": 274,
+                "zoom": 2.0637254901960786
               },
               "icon": "lucide-file-text",
               "title": "bq29209"
@@ -46,9 +46,9 @@
               "type": "pdf",
               "state": {
                 "file": "Datasheets/bq34z100-G1.pdf",
-                "page": 4,
+                "page": 47,
                 "left": -7,
-                "top": 265,
+                "top": 439,
                 "zoom": 2.0637254901960786
               },
               "icon": "lucide-file-text",
@@ -70,7 +70,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -241,20 +241,20 @@
       "bases:Создать новую базу": false
     }
   },
-  "active": "55e7e963d5dd3068",
+  "active": "c1a5d124ea7a3283",
   "lastOpenFiles": [
-    "Datasheets/bq29209.pdf",
+    "pcb_design/accumulator_part/Sheet2.$$$",
+    "pcb_design/accumulator_part/History/Sheet2.~(53).SchDoc.Zip",
+    "pcb_design/accumulator_part/History/Sheet2.~(53).SchDoc",
+    "pcb_design/accumulator_part/History/Sheet2.~(52).SchDoc.Zip",
+    "pcb_design/accumulator_part/History/Sheet2.~(52).SchDoc",
+    "pcb_design/accumulator_part/History/Misc_custom.~(40).SchLib.Zip",
+    "pcb_design/accumulator_part/History/Misc_custom.~(40).SchLib",
+    "pcb_design/accumulator_part/History/Sheet2.~(51).SchDoc.Zip",
+    "pcb_design/accumulator_part/History/Sheet2.~(51).SchDoc",
+    "pcb_design/accumulator_part/Misc_custom.$$$",
+    "pcb_design/accumulator_part/History/Misc_custom.~(39).SchLib.Zip",
     "Купить.md",
-    "pcb_design/accumulator_part/History/accumulator_part.~(10).PrjPcb.Zip",
-    "pcb_design/accumulator_part/History/accumulator_part.~(10).PrjPcb",
-    "pcb_design/accumulator_part/History/Sheet2.~(48).SchDoc.Zip",
-    "pcb_design/accumulator_part/History/Sheet2.~(48).SchDoc",
-    "pcb_design/accumulator_part/Project Logs for accumulator_part/Sheet2 SCH ECO 23.11.2026 17-58-10.LOG",
-    "pcb_design/accumulator_part/Project Logs for accumulator_part/Sheet2 SCH ECO 23.11.2026 17-55-33.LOG",
-    "pcb_design/accumulator_part/History/accumulator_part.~(9).PrjPcb.Zip",
-    "pcb_design/accumulator_part/History/accumulator_part.~(9).PrjPcb",
-    "pcb_design/accumulator_part/History/Sheet2.~(47).SchDoc.Zip",
-    "pcb_design/accumulator_part/History/Sheet2.~(47).SchDoc",
     "README.md"
   ]
 }
