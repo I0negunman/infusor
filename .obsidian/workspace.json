@@ -14,10 +14,10 @@
               "type": "pdf",
               "state": {
                 "file": "Datasheets/bq29209.pdf",
-                "page": 13,
-                "left": -7,
-                "top": 274,
-                "zoom": 2.0637254901960786
+                "page": 1,
+                "left": -412,
+                "top": 629,
+                "zoom": 0.9
               },
               "icon": "lucide-file-text",
               "title": "bq29209"
@@ -32,7 +32,7 @@
                 "file": "Datasheets/LTC4002.pdf",
                 "page": 15,
                 "left": -192,
-                "top": 73,
+                "top": 650,
                 "zoom": 1.3
               },
               "icon": "lucide-file-text",
@@ -48,7 +48,7 @@
                 "file": "Datasheets/bq34z100-G1.pdf",
                 "page": 47,
                 "left": -7,
-                "top": 439,
+                "top": 451,
                 "zoom": 2.0637254901960786
               },
               "icon": "lucide-file-text",
@@ -243,17 +243,17 @@
   },
   "active": "c1a5d124ea7a3283",
   "lastOpenFiles": [
+    "pcb_design/accumulator_part/History/Sheet2.~(64).SchDoc.Zip",
+    "pcb_design/accumulator_part/History/Sheet2.~(64).SchDoc",
     "pcb_design/accumulator_part/PCB1.$$$",
-    "pcb_design/accumulator_part/History/PCB1.~(3).PcbDoc.Zip",
-    "pcb_design/accumulator_part/History/PCB1.~(3).PcbDoc",
-    "3d_model_prefinal/~$screen_hat.SLDPRT",
-    "3d_model_prefinal/~$oled_SCREEN_BUTTONS.SLDPRT",
-    "3d_model_prefinal/~$gear_big_0.5m_N20.SLDPRT",
-    "3d_model_prefinal/~$outer_case_part_1.SLDPRT",
-    "3d_model_prefinal/~$magnet_handler.SLDPRT",
-    "3d_model_prefinal/~$lid.SLDPRT",
-    "3d_model_prefinal/~$gear_small_0.5m_5mm_N10.SLDPRT",
-    "3d_model_prefinal/~$motor_shaft.SLDPRT",
+    "pcb_design/accumulator_part/History/PCB1.~(6).PcbDoc.Zip",
+    "pcb_design/accumulator_part/History/PCB1.~(6).PcbDoc",
+    "pcb_design/accumulator_part/Project Logs for accumulator_part/PCB1 PCB ECO 26.11.2026 14-48-27.LOG",
+    "pcb_design/accumulator_part/Project Logs for accumulator_part/Sheet2 SCH ECO 26.11.2026 14-48-16.LOG",
+    "pcb_design/accumulator_part/Project Logs for accumulator_part/Sheet2 SCH ECO 26.11.2026 14-48-05.LOG",
+    "pcb_design/accumulator_part/History/accumulator_part.~(14).PrjPcb.Zip",
+    "pcb_design/accumulator_part/History/accumulator_part.~(14).PrjPcb",
+    "pcb_design/accumulator_part/History/Sheet2.~(63).SchDoc.Zip",
     "Купить.md",
     "README.md"
   ]

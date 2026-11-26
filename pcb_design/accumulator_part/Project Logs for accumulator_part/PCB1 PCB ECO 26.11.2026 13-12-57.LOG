@@ -1,0 +1,8 @@
+Change Component Designator: OldDesignator=P? NewDesignator=P2
+Added Component: Designator=D1(B330-13-F)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=GND Pin=D1-1
+Added Pin To Net: NetName=NetD1_2 Pin=D1-2
+Change Net Name : Old Net Name=NetP?_2 New Net Name=NetP2_2
+Added Member To Class: ClassName=Sheet2 Member=Component D1 B330-13-F
+Added Room: Name=Sheet2
